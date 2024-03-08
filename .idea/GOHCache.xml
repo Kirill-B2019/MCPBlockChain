@@ -1,8 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Block">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../MCPBlockChain/Block.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Message">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../MCPBlockChain/Block.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="scannedPathMapping">
       <map>
+        <entry key="file://$PROJECT_DIR$/../MCPBlockChain/Block.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1709914291425" />
+              <option name="schema">
+                <list>
+                  <option value="Block" />
+                  <option value="Message" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../MCPBlockChain/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1709912982268" />
+            </ScannedPath>
+          </value>
+        </entry>
         <entry key="file://$PROJECT_DIR$/Block.go">
           <value>
             <ScannedPath>
@@ -10,6 +48,19 @@
             </ScannedPath>
           </value>
         </entry>
+        <entry key="file://$PROJECT_DIR$/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1709912080446" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="block" value="Block" />
+        <entry key="message" value="Message" />
       </map>
     </option>
     <option name="lastTimeChecked" value="1709846201574" />
